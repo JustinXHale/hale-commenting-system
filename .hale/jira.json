@@ -1,0 +1,14 @@
+{
+  "section:/support/*": {
+    "jiraKey": "RHOAIUX-1427",
+    "scope": "section",
+    "anchorRoute": "/support",
+    "updatedAt": "2025-12-21T19:33:47.746Z"
+  },
+  "section:/settings/*": {
+    "jiraKey": "RHOAIUX-1424",
+    "scope": "section",
+    "anchorRoute": "/settings",
+    "updatedAt": "2026-01-06T18:59:01.491Z"
+  }
+}
