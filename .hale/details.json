@@ -1,0 +1,38 @@
+{
+  "section:/support/*": {
+    "designGoal": "01",
+    "primaryGoals": "02",
+    "keyFeaturesBeingValidated": "03",
+    "targetedUsers": "04",
+    "scope": "section",
+    "anchorRoute": "/support",
+    "updatedAt": "2026-01-06T18:57:22.054Z"
+  },
+  "section://*": {
+    "designGoal": "Make this exciting",
+    "primaryGoals": "Keep them coming back",
+    "keyFeaturesBeingValidated": "Commenting system",
+    "targetedUsers": "UXers",
+    "scope": "section",
+    "anchorRoute": "/",
+    "updatedAt": "2025-12-20T04:32:56.106Z"
+  },
+  "section:/settings/*": {
+    "designGoal": "this is the settings general page",
+    "primaryGoals": "",
+    "keyFeaturesBeingValidated": "",
+    "targetedUsers": "",
+    "scope": "section",
+    "anchorRoute": "/settings",
+    "updatedAt": "2025-12-25T18:28:43.098Z"
+  },
+  "page:/settings/profile": {
+    "designGoal": "this is the settings general page...changing on the profile page",
+    "primaryGoals": "",
+    "keyFeaturesBeingValidated": "",
+    "targetedUsers": "",
+    "scope": "page",
+    "anchorRoute": "/settings/profile",
+    "updatedAt": "2025-12-25T18:29:00.010Z"
+  }
+}
